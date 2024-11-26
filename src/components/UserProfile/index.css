@@ -1,0 +1,28 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+.user-container{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    justify-content: space-around;
+    width: 350px;
+}
+.image{
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+   
+}
+.heading{
+    font-size: 24px;
+}
+.delete-btn{
+    border-width: 0px;
+
+}
+.delete-image{
+    height: 10px;
+    width: 10px;
+}
